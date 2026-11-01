@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "3cf6",
+      "name": "IPhone",
+      "price": "99999",
+      "rating": "5",
+      "image": "https://thvnext.bing.com/th/id/OIP.ePRvf2JuWFkdKRpZKM3mFAHaNK?w=115&h=197&c=7&r=0&o=7&cb=12&dpr=1.4&pid=1.7&rm=3"
+    },
+    {
+      "id": "db05",
+      "name": "Camera",
+      "price": "29999",
+      "rating": "5",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.9Sxb3w5iK6Sl72cqWAEWLQHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "9d4b",
+      "name": "Watch",
+      "price": "599",
+      "rating": "4.2",
+      "image": "https://i.ibb.co/gw1Fzng/s-l1600.webp"
+    },
+    {
+      "id": "36d8",
+      "name": "Laptop",
+      "price": "56999",
+      "rating": "4.5",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
